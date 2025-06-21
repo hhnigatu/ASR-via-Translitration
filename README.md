@@ -19,7 +19,7 @@ Models trained with data from a single transfer language, with transliterated tr
 [Arabic]() * [Xhosa]() * [French](https://huggingface.co/Hellina/fr_only) * [Spanish]()
 
 ## Data
-The compiled dataset with transliterated transcripts can be found [here](). Below, we present the sources of our training and test data. For ALFFA dataset, we provide the manually reconstructed test transcripts in the Data folder of this repository. 
+The compiled dataset with transliterated transcripts can be found on Huggingface for [Arabic](https://huggingface.co/datasets/Hellina/ara_transliterated), [Xhosa](https://huggingface.co/datasets/Hellina/xho_transliterated), [French](https://huggingface.co/datasets/Hellina/fra_transliterated), and [Spanish](https://huggingface.co/datasets/Hellina/esp_transliterated). Below, we present the sources of our training and test data. For ALFFA dataset, we provide the manually reconstructed test transcripts in the Data folder of this repository. 
 
 ## Training Data
 
